@@ -1,4 +1,3 @@
-/* eslint-disable react/prop-types */
 import { CssBaseline, ThemeProvider } from '@mui/material';
 import { purpleTheme } from './';
 
